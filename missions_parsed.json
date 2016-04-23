@@ -1,0 +1,1940 @@
+{
+    "missions": [
+        {
+            "nodename": "SolNode94",
+            "planet": "Merkur",
+            "name": "Apollodorus",
+            "type": "Überleben",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode130",
+            "planet": "Merkur",
+            "name": "Lares",
+            "type": "Verteidiung",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode119",
+            "planet": "Merkur",
+            "name": "Caloris",
+            "type": "Gefangennahme",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode12",
+            "planet": "Merkur",
+            "name": "Elion",
+            "type": "Mobile Verteidigung",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode103",
+            "planet": "Merkur",
+            "name": "Terminus",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode28",
+            "planet": "Merkur",
+            "name": "MPrime",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode108",
+            "planet": "Merkur",
+            "name": "Tolstoj",
+            "type": "Attentat (Captain Vor)",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode221",
+            "planet": "Merkur",
+            "name": "Neruda",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode222",
+            "planet": "Merkur",
+            "name": "Eminescu",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode223",
+            "planet": "Merkur",
+            "name": "Boethius",
+            "type": "Mobile Verteidigung",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode901",
+            "planet": "Merkur",
+            "name": "MercuryArchwingNode1",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode224",
+            "planet": "Merkur",
+            "name": "Odin",
+            "type": "Abfangen",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode225",
+            "planet": "Merkur",
+            "name": "Suisei",
+            "type": "Spy",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode226",
+            "planet": "Merkur",
+            "name": "Pantheon",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode227",
+            "planet": "Merkur",
+            "name": "Verdi",
+            "type": "Täuschung",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode123",
+            "planet": "Venus",
+            "name": "VPrime",
+            "type": "Rettung",
+            "enemy": "Corpus",
+            "level": "6 - 8"
+        },
+        {
+            "nodename": "SolNode61",
+            "planet": "Venus",
+            "name": "Ishtar",
+            "type": "Gefangennahme",
+            "enemy": "Corpus",
+            "level": "6 - 8"
+        },
+        {
+            "nodename": "SolNode2",
+            "planet": "Venus",
+            "name": "Aphrodite",
+            "type": "Gefangennahme",
+            "enemy": "Corpus",
+            "level": "6 - 8"
+        },
+        {
+            "nodename": "SolNode71",
+            "planet": "Venus",
+            "name": "Vesper",
+            "type": "Spy",
+            "enemy": "Corpus",
+            "level": "6 - 8"
+        },
+        {
+            "nodename": "SolNode23",
+            "planet": "Venus",
+            "name": "Cytherean",
+            "type": "Auslöschung",
+            "enemy": "Corpus",
+            "level": "6 - 8"
+        },
+        {
+            "nodename": "SolNode128",
+            "planet": "Venus",
+            "name": "EGate",
+            "type": "Ausgrabung",
+            "enemy": "Corpus",
+            "level": "6 - 11"
+        },
+        {
+            "nodename": "SolNode109",
+            "planet": "Venus",
+            "name": "Linea",
+            "type": "Rettung",
+            "enemy": "Corpus",
+            "level": "6 - 8"
+        },
+        {
+            "nodename": "SolNode104",
+            "planet": "Venus",
+            "name": "Fossa",
+            "type": "Attentat (Jackal)",
+            "enemy": "Corpus",
+            "level": "8 - 10"
+        },
+        {
+            "nodename": "SolNode66",
+            "planet": "Venus",
+            "name": "Unda",
+            "type": "Spy",
+            "enemy": "Corpus",
+            "level": "8 - 10"
+        },
+        {
+            "nodename": "SolNode107",
+            "planet": "Venus",
+            "name": "Venera",
+            "type": "Verteidiung",
+            "enemy": "Corpus",
+            "level": "8 - 13"
+        },
+        {
+            "nodename": "SolNode22",
+            "planet": "Venus",
+            "name": "Tessera",
+            "type": "Sabotage",
+            "enemy": "Corpus",
+            "level": "8 - 10"
+        },
+        {
+            "nodename": "SolNode101",
+            "planet": "Venus",
+            "name": "Kiliken",
+            "type": "Verteidiung",
+            "enemy": "Corpus",
+            "level": "8 - 13"
+        },
+        {
+            "nodename": "ClanNode0",
+            "planet": "Venus",
+            "name": "Romula",
+            "type": "Verteidiung",
+            "enemy": "Infestation",
+            "level": "10 - 20"
+        },
+        {
+            "nodename": "ClanNode1",
+            "planet": "Venus",
+            "name": "Malva",
+            "type": "Ausgrabung",
+            "enemy": "Corpus",
+            "level": "10 - 20"
+        },
+        {
+            "nodename": "SolNode79",
+            "planet": "Erde",
+            "name": "Cambria",
+            "type": "Spy",
+            "enemy": "Grineer",
+            "level": "1 - 3"
+        },
+        {
+            "nodename": "SolNode27",
+            "planet": "Erde",
+            "name": "EPrime",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode59",
+            "planet": "Erde",
+            "name": "Eurasia",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode39",
+            "planet": "Erde",
+            "name": "Everest",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "1 - 3"
+        },
+        {
+            "nodename": "SolNode85",
+            "planet": "Erde",
+            "name": "Gaia",
+            "type": "Abfangen",
+            "enemy": "Grineer",
+            "level": "3 - 5"
+        },
+        {
+            "nodename": "SolNode26",
+            "planet": "Erde",
+            "name": "Lith",
+            "type": "Verteidiung",
+            "enemy": "Grineer",
+            "level": "1 - 6"
+        },
+        {
+            "nodename": "SolNode75",
+            "planet": "Erde",
+            "name": "Lua",
+            "type": "Ausgrabung",
+            "enemy": "Grineer",
+            "level": "1 - 6"
+        },
+        {
+            "nodename": "SolNode63",
+            "planet": "Erde",
+            "name": "Mantle",
+            "type": "Gefangennahme",
+            "enemy": "Grineer",
+            "level": "1 - 3"
+        },
+        {
+            "nodename": "SolNode89",
+            "planet": "Erde",
+            "name": "Mariana",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "1 - 3"
+        },
+        {
+            "nodename": "SolNode15",
+            "planet": "Erde",
+            "name": "Pacific",
+            "type": "Gefangennahme",
+            "enemy": "Grineer",
+            "level": "1 - 3"
+        },
+        {
+            "nodename": "SolNode24",
+            "planet": "Erde",
+            "name": "Oro",
+            "type": "Attentat (Vay Hek)",
+            "enemy": "Grineer",
+            "level": "20 - 25"
+        },
+        {
+            "nodename": "SolNode1001",
+            "planet": "Erde (Mond)",
+            "name": "Plato",
+            "type": "Crossfire",
+            "enemy": "Grineer/Corpus",
+            "level": "25 - 30"
+        },
+        {
+            "nodename": "SolNode1002",
+            "planet": "Erde (Mond)",
+            "name": "Tycho",
+            "type": "Überleben",
+            "enemy": "Corpus",
+            "level": "25 - 30"
+        },
+        {
+            "nodename": "SolNode1003",
+            "planet": "Erde (Mond)",
+            "name": "Grimaldi",
+            "type": "Mobile Verteidigung",
+            "enemy": "Grineer",
+            "level": "25 - 30"
+        },
+        {
+            "nodename": "SolNode1004",
+            "planet": "Erde (Mond)",
+            "name": "Pavlov",
+            "type": "Spy",
+            "enemy": "Grineer",
+            "level": "25 - 30"
+        },
+        {
+            "nodename": "SolNode1005",
+            "planet": "Erde (Mond)",
+            "name": "Zeipel",
+            "type": "Rettung",
+            "enemy": "Grineer",
+            "level": "25 - 30"
+        },
+        {
+            "nodename": "SolNode1006",
+            "planet": "Erde (Mond)",
+            "name": "Stöfler",
+            "type": "Verteidigung",
+            "enemy": "Grineer",
+            "level": "25 - 30"
+        },
+        {
+            "nodename": "SolNode1007",
+            "planet": "Erde (Mond)",
+            "name": "Copernicus",
+            "type": "Gefangennahme",
+            "enemy": "Corpus",
+            "level": "25 - 30"
+        },
+        {
+            "nodename": "ClanNode2",
+            "planet": "Erde",
+            "name": "Coba",
+            "type": "Verteidiung",
+            "enemy": "Infestation",
+            "level": "5 - 15"
+        },
+        {
+            "nodename": "ClanNode3",
+            "planet": "Erde",
+            "name": "Tikal",
+            "type": "Ausgrabung",
+            "enemy": "Grineer",
+            "level": "5 - 15"
+        },
+        {
+            "nodename": "SolNode35",
+            "planet": "Mars",
+            "name": "Arcadia",
+            "type": "Überleben",
+            "enemy": "Corpus",
+            "level": "6 - 11"
+        },
+        {
+            "nodename": "SolNode11",
+            "planet": "Mars",
+            "name": "Tharsis",
+            "type": "Sabotage",
+            "enemy": "Corpus",
+            "level": "6 - 8"
+        },
+        {
+            "nodename": "SolNode113",
+            "planet": "Mars",
+            "name": "Ares",
+            "type": "Gefangennahme",
+            "enemy": "Grineer",
+            "level": "6 - 8"
+        },
+        {
+            "nodename": "SolNode30",
+            "planet": "Mars",
+            "name": "Olympus",
+            "type": "Verteidiung",
+            "enemy": "Grineer",
+            "level": "6 - 11"
+        },
+        {
+            "nodename": "SolNode68",
+            "planet": "Mars",
+            "name": "Vallis",
+            "type": "Rettung",
+            "enemy": "Corpus",
+            "level": "6 - 8"
+        },
+        {
+            "nodename": "SolNode58",
+            "planet": "Mars",
+            "name": "Hellas",
+            "type": "Mobile Verteidigung",
+            "enemy": "Grineer",
+            "level": "6 - 8"
+        },
+        {
+            "nodename": "SolNode106",
+            "planet": "Mars",
+            "name": "Alator",
+            "type": "Gefangennahme",
+            "enemy": "Corpus",
+            "level": "8 - 10"
+        },
+        {
+            "nodename": "SolNode41",
+            "planet": "Mars",
+            "name": "Arval",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "8 - 10"
+        },
+        {
+            "nodename": "SolNode14",
+            "planet": "Mars",
+            "name": "Ultor",
+            "type": "Auslöschung",
+            "enemy": "Corpus",
+            "level": "8 - 10"
+        },
+        {
+            "nodename": "SolNode16",
+            "planet": "Mars",
+            "name": "Augustus",
+            "type": "Abfangen",
+            "enemy": "Corpus",
+            "level": "8 - 10"
+        },
+        {
+            "nodename": "SolNode45",
+            "planet": "Mars",
+            "name": "Ara",
+            "type": "Überleben",
+            "enemy": "Corpus",
+            "level": "8 - 13"
+        },
+        {
+            "nodename": "SolNode54",
+            "planet": "Mars",
+            "name": "Silvanus",
+            "type": "Crossfire",
+            "enemy": "Grineer/Corpus",
+            "level": "8 - 10"
+        },
+        {
+            "nodename": "SolNode36",
+            "planet": "Mars",
+            "name": "Martialis",
+            "type": "Spy",
+            "enemy": "Corpus",
+            "level": "10 - 12"
+        },
+        {
+            "nodename": "SolNode99",
+            "planet": "Mars",
+            "name": "War",
+            "type": "Attentat (Nef Anyo)",
+            "enemy": "Corpus",
+            "level": "10 - 12"
+        },
+        {
+            "nodename": "SolNode65",
+            "planet": "Mars",
+            "name": "Gradivus",
+            "type": "Sabotage",
+            "enemy": "Corpus",
+            "level": "10 - 12"
+        },
+        {
+            "nodename": "SolNode115",
+            "planet": "Mars",
+            "name": "Quirinus",
+            "type": "Gefangennahme",
+            "enemy": "Corpus",
+            "level": "10 - 12"
+        },
+        {
+            "nodename": "SolNode46",
+            "planet": "Mars",
+            "name": "Spear",
+            "type": "Rettung",
+            "enemy": "Grineer",
+            "level": "10 - 12"
+        },
+        {
+            "nodename": "ClanNode8",
+            "planet": "Mars",
+            "name": "Kadesh",
+            "type": "Verteidiung",
+            "enemy": "Infestation",
+            "level": "10 - 20"
+        },
+        {
+            "nodename": "ClanNode9",
+            "planet": "Mars",
+            "name": "Wahiba",
+            "type": "Überleben",
+            "enemy": "Infestation",
+            "level": "10 - 19"
+        },
+        {
+            "nodename": "SolNode87",
+            "planet": "Jupiter",
+            "name": "Ganymede",
+            "type": "Auslöschung",
+            "enemy": "Corpus",
+            "level": "11 - 13"
+        },
+        {
+            "nodename": "SolNode88",
+            "planet": "Jupiter",
+            "name": "Adrastea",
+            "type": "Spy",
+            "enemy": "Corpus",
+            "level": "11 - 13"
+        },
+        {
+            "nodename": "SolNode97",
+            "planet": "Jupiter",
+            "name": "Amalthea",
+            "type": "Sabotage",
+            "enemy": "Corpus",
+            "level": "11 - 13"
+        },
+        {
+            "nodename": "SolNode126",
+            "planet": "Jupiter",
+            "name": "Metis",
+            "type": "Rettung",
+            "enemy": "Corpus",
+            "level": "11 - 13"
+        },
+        {
+            "nodename": "SolNode125",
+            "planet": "Jupiter",
+            "name": "Io",
+            "type": "Verteidiung",
+            "enemy": "Corpus",
+            "level": "11 - 16"
+        },
+        {
+            "nodename": "SolNode100",
+            "planet": "Jupiter",
+            "name": "Elara",
+            "type": "Überleben",
+            "enemy": "Corpus",
+            "level": "11 - 16"
+        },
+        {
+            "nodename": "SolNode10",
+            "planet": "Jupiter",
+            "name": "Thebe",
+            "type": "Täuschung",
+            "enemy": "Corpus",
+            "level": "11 - 13"
+        },
+        {
+            "nodename": "SolNode25",
+            "planet": "Jupiter",
+            "name": "Callisto",
+            "type": "Abfangen",
+            "enemy": "Corpus",
+            "level": "13 - 15"
+        },
+        {
+            "nodename": "SolNode121",
+            "planet": "Jupiter",
+            "name": "Carpo",
+            "type": "Auslöschung",
+            "enemy": "Corpus",
+            "level": "13 - 15"
+        },
+        {
+            "nodename": "SolNode53",
+            "planet": "Jupiter",
+            "name": "Themisto",
+            "type": "Attentat (Alad V)",
+            "enemy": "Corpus",
+            "level": "13 - 15"
+        },
+        {
+            "nodename": "SolNode74",
+            "planet": "Jupiter",
+            "name": "Carme",
+            "type": "Mobile Verteidigung",
+            "enemy": "Corpus",
+            "level": "13 - 15"
+        },
+        {
+            "nodename": "SolNode73",
+            "planet": "Jupiter",
+            "name": "Ananke",
+            "type": "Gefangennahme",
+            "enemy": "Corpus",
+            "level": "13 - 15"
+        },
+        {
+            "nodename": "ClanNode5",
+            "planet": "Jupiter",
+            "name": "Cameria",
+            "type": "Überleben",
+            "enemy": "Infestation",
+            "level": "15 - 25"
+        },
+        {
+            "nodename": "ClanNode4",
+            "planet": "Jupiter",
+            "name": "Sinai",
+            "type": "Verteidiung",
+            "enemy": "Infestation",
+            "level": "13 - 23"
+        },
+        {
+            "nodename": "SolNode110",
+            "planet": "Saturn",
+            "name": "Hyperion",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "11 - 13"
+        },
+        {
+            "nodename": "SolNode7",
+            "planet": "Saturn",
+            "name": "Epimetheus",
+            "type": "Täuschung",
+            "enemy": "Grineer",
+            "level": "11 - 13"
+        },
+        {
+            "nodename": "SolNode42",
+            "planet": "Saturn",
+            "name": "Helene",
+            "type": "Verteidiung",
+            "enemy": "Grineer",
+            "level": "11 - 13"
+        },
+        {
+            "nodename": "SolNode19",
+            "planet": "Saturn",
+            "name": "Enceladus",
+            "type": "Gefangennahme",
+            "enemy": "Grineer",
+            "level": "11 - 13"
+        },
+        {
+            "nodename": "SolNode96",
+            "planet": "Saturn",
+            "name": "Titan",
+            "type": "Spy",
+            "enemy": "Grineer",
+            "level": "11 - 13"
+        },
+        {
+            "nodename": "SolNode67",
+            "planet": "Saturn",
+            "name": "Dione",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "11 - 13"
+        },
+        {
+            "nodename": "SolNode44",
+            "planet": "Saturn",
+            "name": "Mimas",
+            "type": "Überleben",
+            "enemy": "Grineer",
+            "level": "13 - 15"
+        },
+        {
+            "nodename": "SolNode91",
+            "planet": "Saturn",
+            "name": "Iapetus",
+            "type": "Abfangen",
+            "enemy": "Grineer",
+            "level": "13 - 15"
+        },
+        {
+            "nodename": "SolNode47",
+            "planet": "Saturn",
+            "name": "Janus",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "13 - 15"
+        },
+        {
+            "nodename": "SolNode93",
+            "planet": "Saturn",
+            "name": "Keeler",
+            "type": "Mobile Verteidigung",
+            "enemy": "Grineer",
+            "level": "13 - 15"
+        },
+        {
+            "nodename": "SolNode32",
+            "planet": "Saturn",
+            "name": "Tethys",
+            "type": "Attentat (Sargas Ruk)",
+            "enemy": "Grineer",
+            "level": "13 - 15"
+        },
+        {
+            "nodename": "SolNode80",
+            "planet": "Saturn",
+            "name": "Phoebe",
+            "type": "Gefangennahme",
+            "enemy": "Grineer",
+            "level": "13 - 15"
+        },
+        {
+            "nodename": "SolNode18",
+            "planet": "Saturn",
+            "name": "Rhea",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "13 - 15"
+        },
+        {
+            "nodename": "SolNode37",
+            "planet": "Saturn",
+            "name": "Pallene",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "15 - 17"
+        },
+        {
+            "nodename": "SolNode20",
+            "planet": "Saturn",
+            "name": "Telesto",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "15 - 17"
+        },
+        {
+            "nodename": "SolNode86",
+            "planet": "Saturn",
+            "name": "Aegaeon",
+            "type": "Spy",
+            "enemy": "Grineer",
+            "level": "15 - 17"
+        },
+        {
+            "nodename": "SolNode55",
+            "planet": "Saturn",
+            "name": "Methone",
+            "type": "Täuschung",
+            "enemy": "Grineer",
+            "level": "15 - 17"
+        },
+        {
+            "nodename": "SolNode70",
+            "planet": "Saturn",
+            "name": "Cassini",
+            "type": "Überleben",
+            "enemy": "Grineer",
+            "level": "15 - 20"
+        },
+        {
+            "nodename": "SolNode31",
+            "planet": "Saturn",
+            "name": "Anthe",
+            "type": "Rettung",
+            "enemy": "Grineer",
+            "level": "15 - 17"
+        },
+        {
+            "nodename": "SolNode50",
+            "planet": "Saturn",
+            "name": "Numa",
+            "type": "Rettung",
+            "enemy": "Grineer",
+            "level": "15 - 17"
+        },
+        {
+            "nodename": "SolNode82",
+            "planet": "Saturn",
+            "name": "Calypso",
+            "type": "Gefangennahme",
+            "enemy": "Grineer",
+            "level": "17 - 19"
+        },
+        {
+            "nodename": "ClanNode13",
+            "planet": "Saturn",
+            "name": "Piscinas",
+            "type": "Überleben",
+            "enemy": "Infestation",
+            "level": "17 - 19"
+        },
+        {
+            "nodename": "ClanNode12",
+            "planet": "Saturn",
+            "name": "Caracol",
+            "type": "Verteidiung",
+            "enemy": "Infestation",
+            "level": "17 - 19"
+        },
+        {
+            "nodename": "SolNode29",
+            "planet": "Uranus",
+            "name": "Oberon",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "21 - 23"
+        },
+        {
+            "nodename": "SolNode33",
+            "planet": "Uranus",
+            "name": "Ariel",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "21 - 23"
+        },
+        {
+            "nodename": "SolNode105",
+            "planet": "Uranus",
+            "name": "Titania",
+            "type": "Attentat (Tyl Regor)",
+            "enemy": "Grineer",
+            "level": "21 - 23"
+        },
+        {
+            "nodename": "SolNode64",
+            "planet": "Uranus",
+            "name": "Umbriel",
+            "type": "Spy",
+            "enemy": "Grineer",
+            "level": "21 - 23"
+        },
+        {
+            "nodename": "SolNode3",
+            "planet": "Uranus",
+            "name": "Cordelia",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "21 - 23"
+        },
+        {
+            "nodename": "SolNode90",
+            "planet": "Uranus",
+            "name": "Miranda",
+            "type": "Verteidiung",
+            "enemy": "Grineer",
+            "level": "21 - 26"
+        },
+        {
+            "nodename": "SolNode69",
+            "planet": "Uranus",
+            "name": "Ophelia",
+            "type": "Überleben",
+            "enemy": "Grineer",
+            "level": "21 - 26"
+        },
+        {
+            "nodename": "SolNode52",
+            "planet": "Uranus",
+            "name": "Portia",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "23 - 25"
+        },
+        {
+            "nodename": "SolNode83",
+            "planet": "Uranus",
+            "name": "Cressida",
+            "type": "Mobile Verteidigung",
+            "enemy": "Grineer",
+            "level": "23 - 25"
+        },
+        {
+            "nodename": "SolNode111",
+            "planet": "Uranus",
+            "name": "Juliet",
+            "type": "Täuschung",
+            "enemy": "Grineer",
+            "level": "23 - 25"
+        },
+        {
+            "nodename": "SolNode98",
+            "planet": "Uranus",
+            "name": "Desdemona",
+            "type": "Gefangennahme",
+            "enemy": "Grineer",
+            "level": "23 - 25"
+        },
+        {
+            "nodename": "SolNode77",
+            "planet": "Uranus",
+            "name": "Cupid",
+            "type": "Überleben",
+            "enemy": "Grineer",
+            "level": "23 - 28"
+        },
+        {
+            "nodename": "SolNode9",
+            "planet": "Uranus",
+            "name": "Rosalind",
+            "type": "Spy",
+            "enemy": "Grineer",
+            "level": "23 - 25"
+        },
+        {
+            "nodename": "SolNode13",
+            "planet": "Uranus",
+            "name": "Bianca",
+            "type": "Verteidiung",
+            "enemy": "Grineer",
+            "level": "23 - 28"
+        },
+        {
+            "nodename": "SolNode40",
+            "planet": "Uranus",
+            "name": "Prospero",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "25 - 27"
+        },
+        {
+            "nodename": "SolNode5",
+            "planet": "Uranus",
+            "name": "Perdita",
+            "type": "Täuschung",
+            "enemy": "Grineer",
+            "level": "25 - 27"
+        },
+        {
+            "nodename": "SolNode116",
+            "planet": "Uranus",
+            "name": "Mab",
+            "type": "Rettung",
+            "enemy": "Grineer",
+            "level": "25 - 27"
+        },
+        {
+            "nodename": "SolNode112",
+            "planet": "Uranus",
+            "name": "Setebos",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "25 - 27"
+        },
+        {
+            "nodename": "SolNode60",
+            "planet": "Uranus",
+            "name": "Caliban",
+            "type": "Rettung",
+            "enemy": "Grineer",
+            "level": "25 - 27"
+        },
+        {
+            "nodename": "SolNode114",
+            "planet": "Uranus",
+            "name": "Puck",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "25 - 27"
+        },
+        {
+            "nodename": "SolNode34",
+            "planet": "Uranus",
+            "name": "Sycorax",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "27 - 29"
+        },
+        {
+            "nodename": "SolNode122",
+            "planet": "Uranus",
+            "name": "Stephano",
+            "type": "Abfangen",
+            "enemy": "Grineer",
+            "level": "27 - 29"
+        },
+        {
+            "nodename": "SolNode124",
+            "planet": "Uranus",
+            "name": "Trinculo",
+            "type": "Gefangennahme",
+            "enemy": "Grineer",
+            "level": "27 - 29"
+        },
+        {
+            "nodename": "ClanNode17",
+            "planet": "Uranus",
+            "name": "Assur",
+            "type": "Überleben",
+            "enemy": "Infestation",
+            "level": "27 - 37"
+        },
+        {
+            "nodename": "ClanNode16",
+            "planet": "Uranus",
+            "name": "Ur",
+            "type": "Verteidiung",
+            "enemy": "Infestation",
+            "level": "27 - 37"
+        },
+        {
+            "nodename": "SolNode49",
+            "planet": "Neptun",
+            "name": "Larissa",
+            "type": "Mobile Verteidigung",
+            "enemy": "Corpus",
+            "level": "26 - 28"
+        },
+        {
+            "nodename": "SolNode95",
+            "planet": "Neptun",
+            "name": "Thalassa",
+            "type": "Rettung",
+            "enemy": "Corpus",
+            "level": "26 - 28"
+        },
+        {
+            "nodename": "SolNode117",
+            "planet": "Neptun",
+            "name": "Naiad",
+            "type": "Täuschung",
+            "enemy": "Corpus",
+            "level": "26 - 28"
+        },
+        {
+            "nodename": "SolNode1",
+            "planet": "Neptun",
+            "name": "Galatea",
+            "type": "Gefangennahme",
+            "enemy": "Corpus",
+            "level": "26 - 28"
+        },
+        {
+            "nodename": "SolNode17",
+            "planet": "Neptun",
+            "name": "Proteus",
+            "type": "Verteidiung",
+            "enemy": "Corpus",
+            "level": "26 - 31"
+        },
+        {
+            "nodename": "SolNode78",
+            "planet": "Neptun",
+            "name": "Triton",
+            "type": "Ausgrabung",
+            "enemy": "Corpus",
+            "level": "26 - 28"
+        },
+        {
+            "nodename": "SolNode6",
+            "planet": "Neptun",
+            "name": "Despina",
+            "type": "Überleben",
+            "enemy": "Corpus",
+            "level": "26 - 31"
+        },
+        {
+            "nodename": "SolNode57",
+            "planet": "Neptun",
+            "name": "Sao",
+            "type": "Spy",
+            "enemy": "Corpus",
+            "level": "28 - 30"
+        },
+        {
+            "nodename": "SolNode120",
+            "planet": "Neptun",
+            "name": "Halimede",
+            "type": "Sabotage",
+            "enemy": "Corpus",
+            "level": "28 - 30"
+        },
+        {
+            "nodename": "SolNode62",
+            "planet": "Neptun",
+            "name": "Neso",
+            "type": "Auslöschung",
+            "enemy": "Corpus",
+            "level": "28 - 30"
+        },
+        {
+            "nodename": "SolNode127",
+            "planet": "Neptun",
+            "name": "Psamathe",
+            "type": "Attentat (Hyena Pack)",
+            "enemy": "Corpus",
+            "level": "28 - 30"
+        },
+        {
+            "nodename": "SolNode118",
+            "planet": "Neptun",
+            "name": "Laomedeia",
+            "type": "Spy",
+            "enemy": "Corpus",
+            "level": "28 - 30"
+        },
+        {
+            "nodename": "SolNode84",
+            "planet": "Neptun",
+            "name": "Nereid",
+            "type": "Rettung",
+            "enemy": "Corpus",
+            "level": "28 - 30"
+        },
+        {
+            "nodename": "ClanNode20",
+            "planet": "Neptun",
+            "name": "Yursa",
+            "type": "Verteidiung",
+            "enemy": "Infestation",
+            "level": "30 - 40"
+        },
+        {
+            "nodename": "ClanNode21",
+            "planet": "Neptun",
+            "name": "Kelashin",
+            "type": "Überleben",
+            "enemy": "Infestation",
+            "level": "30 - 40"
+        },
+        {
+            "nodename": "SolNode156",
+            "planet": "Eris",
+            "name": "Cyath",
+            "type": "Spy",
+            "enemy": "Infestation",
+            "level": "26 - 28"
+        },
+        {
+            "nodename": "SolNode155",
+            "planet": "Eris",
+            "name": "Cosis",
+            "type": "Gefangennahme",
+            "enemy": "Infestation",
+            "level": "26 - 28"
+        },
+        {
+            "nodename": "SolNode154",
+            "planet": "Eris",
+            "name": "Candiru",
+            "type": "Hive Sabotage",
+            "enemy": "Infestation",
+            "level": "26 - 28"
+        },
+        {
+            "nodename": "SolNode152",
+            "planet": "Eris",
+            "name": "Ascar",
+            "type": "Mobile Verteidigung",
+            "enemy": "Infestation",
+            "level": "26 - 28"
+        },
+        {
+            "nodename": "SolNode157",
+            "planet": "Eris",
+            "name": "Giardia",
+            "type": "Mobile Verteidigung",
+            "enemy": "Infestation",
+            "level": "26 - 28"
+        },
+        {
+            "nodename": "SolNode151",
+            "planet": "Eris",
+            "name": "Acanth",
+            "type": "Auslöschung",
+            "enemy": "Infestation",
+            "level": "26 - 28"
+        },
+        {
+            "nodename": "SolNode153",
+            "planet": "Eris",
+            "name": "Brugia",
+            "type": "Rettung",
+            "enemy": "Infestation",
+            "level": "26 - 28"
+        },
+        {
+            "nodename": "SolNode159",
+            "planet": "Eris",
+            "name": "Lepis",
+            "type": "Hive Sabotage",
+            "enemy": "Infestation",
+            "level": "28 - 30"
+        },
+        {
+            "nodename": "SolNode164",
+            "planet": "Eris",
+            "name": "Kala-azar",
+            "type": "Verteidiung",
+            "enemy": "Infestation",
+            "level": "28 - 33"
+        },
+        {
+            "nodename": "SolNode161",
+            "planet": "Eris",
+            "name": "Hymeno",
+            "type": "Überleben",
+            "enemy": "Infestation",
+            "level": "28 - 33"
+        },
+        {
+            "nodename": "SolNode162",
+            "planet": "Eris",
+            "name": "Isos",
+            "type": "Gefangennahme",
+            "enemy": "Infestation",
+            "level": "28 - 30"
+        },
+        {
+            "nodename": "SolNode158",
+            "planet": "Eris",
+            "name": "Gnathos",
+            "type": "Spy",
+            "enemy": "Corpus",
+            "level": "28 - 33"
+        },
+        {
+            "nodename": "SolNode160",
+            "planet": "Eris",
+            "name": "Histo",
+            "type": "Auslöschung",
+            "enemy": "Infestation",
+            "level": "28 - 30"
+        },
+        {
+            "nodename": "SolNode165",
+            "planet": "Eris",
+            "name": "Naeglar",
+            "type": "Auslöschung",
+            "enemy": "Infestation",
+            "level": "28 - 30"
+        },
+        {
+            "nodename": "SolNode163",
+            "planet": "Eris",
+            "name": "Ixodes",
+            "type": "Verteidiung",
+            "enemy": "Infestation",
+            "level": "28 - 33"
+        },
+        {
+            "nodename": "SolNode171",
+            "planet": "Eris",
+            "name": "Saxis",
+            "type": "Auslöschung",
+            "enemy": "Infestation",
+            "level": "30 - 32"
+        },
+        {
+            "nodename": "SolNode168",
+            "planet": "Eris",
+            "name": "Phalan",
+            "type": "Überleben",
+            "enemy": "Infestation",
+            "level": "30 - 35"
+        },
+        {
+            "nodename": "SolNode167",
+            "planet": "Eris",
+            "name": "Oestrus",
+            "type": "Mobile Verteidigung",
+            "enemy": "Infestation",
+            "level": "30 - 32"
+        },
+        {
+            "nodename": "SolNode170",
+            "planet": "Eris",
+            "name": "Ranova",
+            "type": "Rettung",
+            "enemy": "Infestation",
+            "level": "30 - 32"
+        },
+        {
+            "nodename": "SolNode169",
+            "planet": "Eris",
+            "name": "Psoro",
+            "type": "Hive Sabotage",
+            "enemy": "Infestation",
+            "level": "30 - 32"
+        },
+        {
+            "nodename": "SolNode166",
+            "planet": "Eris",
+            "name": "Nimus",
+            "type": "Überleben",
+            "enemy": "Infestation",
+            "level": "30 - 35"
+        },
+        {
+            "nodename": "SolNode173",
+            "planet": "Eris",
+            "name": "Solium",
+            "type": "Mobile Verteidigung",
+            "enemy": "Infestation",
+            "level": "32 - 34"
+        },
+        {
+            "nodename": "SolNode174",
+            "planet": "Eris",
+            "name": "Sparga",
+            "type": "Rettung",
+            "enemy": "Infestation",
+            "level": "32 - 34"
+        },
+        {
+            "nodename": "SolNode172",
+            "planet": "Eris",
+            "name": "Xini",
+            "type": "Verteidiung",
+            "enemy": "Infestation",
+            "level": "32 - 37"
+        },
+        {
+            "nodename": "SolNode176",
+            "planet": "Eris",
+            "name": "Viver",
+            "type": "Hive Sabotage",
+            "enemy": "Infestation",
+            "level": "32 - 34"
+        },
+        {
+            "nodename": "SolNode175",
+            "planet": "Eris",
+            "name": "Sporid",
+            "type": "Hive Sabotage",
+            "enemy": "Infestation",
+            "level": "32 - 34"
+        },
+        {
+            "nodename": "ClanNode19",
+            "planet": "Eris",
+            "name": "Zabala",
+            "type": "Überleben",
+            "enemy": "Infestation",
+            "level": "32 - 42"
+        },
+        {
+            "nodename": "ClanNode18",
+            "planet": "Eris",
+            "name": "Akkad",
+            "type": "Verteidiung",
+            "enemy": "Infestation",
+            "level": "32 - 42"
+        },
+        {
+            "nodename": "SolNode177",
+            "planet": "Sedna",
+            "name": "Kappa",
+            "type": "Mobile Verteidigung",
+            "enemy": "Grineer",
+            "level": "16 - 18"
+        },
+        {
+            "nodename": "SolNode184",
+            "planet": "Sedna",
+            "name": "Rusalka",
+            "type": "Täuschung",
+            "enemy": "Grineer",
+            "level": "16 - 18"
+        },
+        {
+            "nodename": "SolNode182",
+            "planet": "Sedna",
+            "name": "Camenae",
+            "type": "Verteidiung",
+            "enemy": "Grineer",
+            "level": "16 - 18"
+        },
+        {
+            "nodename": "SolNode181",
+            "planet": "Sedna",
+            "name": "Adaro",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "16 - 18"
+        },
+        {
+            "nodename": "SolNode183",
+            "planet": "Sedna",
+            "name": "Vodyanoi",
+            "type": "Mobile Verteidigung",
+            "enemy": "Grineer",
+            "level": "16 - 18"
+        },
+        {
+            "nodename": "SolNode178",
+            "planet": "Sedna",
+            "name": "Hyosube",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "16 - 18"
+        },
+        {
+            "nodename": "SolNode180",
+            "planet": "Sedna",
+            "name": "Undine",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "16 - 18"
+        },
+        {
+            "nodename": "SolNode179",
+            "planet": "Sedna",
+            "name": "Jengu",
+            "type": "Rettung",
+            "enemy": "Grineer",
+            "level": "16 - 18"
+        },
+        {
+            "nodename": "SolNode190",
+            "planet": "Sedna",
+            "name": "Nakki",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SolNode185",
+            "planet": "Sedna",
+            "name": "Berehynia",
+            "type": "Abfangen",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SolNode192",
+            "planet": "Sedna",
+            "name": "Tikoloshe",
+            "type": "Spy",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SolNode187",
+            "planet": "Sedna",
+            "name": "Selkie",
+            "type": "Überleben",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SolNode191",
+            "planet": "Sedna",
+            "name": "Marid",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SolNode186",
+            "planet": "Sedna",
+            "name": "Phithale",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SolNode188",
+            "planet": "Sedna",
+            "name": "Kelpie",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SolNode189",
+            "planet": "Sedna",
+            "name": "Naga",
+            "type": "Rettung",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SolNode199",
+            "planet": "Sedna",
+            "name": "Yam",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "20 - 22"
+        },
+        {
+            "nodename": "SolNode194",
+            "planet": "Sedna",
+            "name": "Ponaturi",
+            "type": "Täuschung",
+            "enemy": "Grineer",
+            "level": "20 - 22"
+        },
+        {
+            "nodename": "SolNode193",
+            "planet": "Sedna",
+            "name": "Merrow",
+            "type": "Attentat (Kela De Thaym)",
+            "enemy": "Grineer",
+            "level": "20 - 22"
+        },
+        {
+            "nodename": "SolNode196",
+            "planet": "Sedna",
+            "name": "Charybdis",
+            "type": "Täuschung",
+            "enemy": "Grineer",
+            "level": "20 - 22"
+        },
+        {
+            "nodename": "SolNode197",
+            "planet": "Sedna",
+            "name": "Graeae",
+            "type": "Mobile Verteidigung",
+            "enemy": "Grineer",
+            "level": "20 - 22"
+        },
+        {
+            "nodename": "SolNode195",
+            "planet": "Sedna",
+            "name": "Hydron",
+            "type": "Verteidiung",
+            "enemy": "Grineer",
+            "level": "20 - 25"
+        },
+        {
+            "nodename": "SolNode198",
+            "planet": "Sedna",
+            "name": "Scylla",
+            "type": "Spy",
+            "enemy": "Grineer",
+            "level": "20 - 22"
+        },
+        {
+            "nodename": "SolNode201",
+            "planet": "Sedna",
+            "name": "Tiamat",
+            "type": "Gefangennahme",
+            "enemy": "Grineer",
+            "level": "20 - 22"
+        },
+        {
+            "nodename": "SolNode202",
+            "planet": "Sedna",
+            "name": "Yemaja",
+            "type": "Überleben",
+            "enemy": "Grineer",
+            "level": "22 - 27"
+        },
+        {
+            "nodename": "SolNode200",
+            "planet": "Sedna",
+            "name": "Veles",
+            "type": "Rettung",
+            "enemy": "Grineer",
+            "level": "22 - 24"
+        },
+        {
+            "nodename": "ClanNode15",
+            "planet": "Sedna",
+            "name": "Sangeru",
+            "type": "Verteidiung",
+            "enemy": "Infestation",
+            "level": "22 - 32"
+        },
+        {
+            "nodename": "ClanNode14",
+            "planet": "Sedna",
+            "name": "Amarna",
+            "type": "Überleben",
+            "enemy": "Infestation",
+            "level": "22 - 32"
+        },
+        {
+            "nodename": "SolNode203",
+            "planet": "Europa",
+            "name": "Abaddon",
+            "type": "Gefangennahme",
+            "enemy": "Corpus",
+            "level": "21 - 23"
+        },
+        {
+            "nodename": "SolNode207",
+            "planet": "Europa",
+            "name": "Gamygyn",
+            "type": "Sabotage",
+            "enemy": "Corpus",
+            "level": "21 - 23"
+        },
+        {
+            "nodename": "SolNode204",
+            "planet": "Europa",
+            "name": "Armaros",
+            "type": "Spy",
+            "enemy": "Corpus",
+            "level": "21 - 23"
+        },
+        {
+            "nodename": "SolNode209",
+            "planet": "Europa",
+            "name": "Morax",
+            "type": "Auslöschung",
+            "enemy": "Corpus",
+            "level": "21 - 23"
+        },
+        {
+            "nodename": "SolNode206",
+            "planet": "Europa",
+            "name": "Eligor",
+            "type": "Verteidiung",
+            "enemy": "Corpus",
+            "level": "21 - 26"
+        },
+        {
+            "nodename": "SolNode208",
+            "planet": "Europa",
+            "name": "Lillith",
+            "type": "Ausgrabung",
+            "enemy": "Corpus",
+            "level": "21 - 26"
+        },
+        {
+            "nodename": "SolNode210",
+            "planet": "Europa",
+            "name": "Naamah",
+            "type": "Attentat (Raptor)",
+            "enemy": "Corpus",
+            "level": "21 - 23"
+        },
+        {
+            "nodename": "SolNode205",
+            "planet": "Europa",
+            "name": "Baal",
+            "type": "Mobile Verteidigung",
+            "enemy": "Corpus",
+            "level": "21 - 23"
+        },
+        {
+            "nodename": "SolNode216",
+            "planet": "Europa",
+            "name": "Valefor",
+            "type": "Ausgrabung",
+            "enemy": "Corpus",
+            "level": "23 - 28"
+        },
+        {
+            "nodename": "SolNode214",
+            "planet": "Europa",
+            "name": "Sorath",
+            "type": "Entführung",
+            "enemy": "Corpus",
+            "level": "23 - 25"
+        },
+        {
+            "nodename": "SolNode211",
+            "planet": "Europa",
+            "name": "Ose",
+            "type": "Abfangen",
+            "enemy": "Corpus",
+            "level": "23 - 28"
+        },
+        {
+            "nodename": "SolNode215",
+            "planet": "Europa",
+            "name": "Valac",
+            "type": "Spy",
+            "enemy": "Corpus",
+            "level": "23 - 25"
+        },
+        {
+            "nodename": "SolNode213",
+            "planet": "Europa",
+            "name": "Shax",
+            "type": "Rettung",
+            "enemy": "Corpus",
+            "level": "23 - 25"
+        },
+        {
+            "nodename": "SolNode212",
+            "planet": "Europa",
+            "name": "Paimon",
+            "type": "Verteidiung",
+            "enemy": "Corpus",
+            "level": "23 - 28"
+        },
+        {
+            "nodename": "SolNode217",
+            "planet": "Europa",
+            "name": "Orias",
+            "type": "Rettung",
+            "enemy": "Corpus",
+            "level": "25 - 27"
+        },
+        {
+            "nodename": "SolNode218",
+            "planet": "Europa",
+            "name": "Zagan",
+            "type": "Überleben",
+            "enemy": "Corpus",
+            "level": "21 - 26"
+        },
+        {
+            "nodename": "SolNode219",
+            "planet": "Europa",
+            "name": "Beleth",
+            "type": "Gefangennahme",
+            "enemy": "Corpus",
+            "level": "25 - 27"
+        },
+        {
+            "nodename": "SolNode220",
+            "planet": "Europa",
+            "name": "Kokabiel",
+            "type": "Sabotage",
+            "enemy": "Corpus",
+            "level": "25 - 27"
+        },
+        {
+            "nodename": "ClanNode6",
+            "planet": "Europa",
+            "name": "Larzac",
+            "type": "Verteidiung",
+            "enemy": "Infestation",
+            "level": "27 - 37"
+        },
+        {
+            "nodename": "ClanNode7",
+            "planet": "Europa",
+            "name": "Cholistan",
+            "type": "Ausgrabung",
+            "enemy": "Corpus",
+            "level": "27 - 37"
+        },
+        {
+            "nodename": "SettlementNode6",
+            "planet": "Phobos",
+            "name": "Limtoc",
+            "type": "Gefangennahme",
+            "enemy": "Grineer",
+            "level": "16 - 18"
+        },
+        {
+            "nodename": "SettlementNode1",
+            "planet": "Phobos",
+            "name": "Roche",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "16 - 18"
+        },
+        {
+            "nodename": "SettlementNode7",
+            "planet": "Phobos",
+            "name": "Hall",
+            "type": "Mobile Verteidigung",
+            "enemy": "Grineer",
+            "level": "16 - 18"
+        },
+        {
+            "nodename": "SettlementNode5",
+            "planet": "Phobos",
+            "name": "Grildrig",
+            "type": "Spy",
+            "enemy": "Grineer",
+            "level": "16 - 18"
+        },
+        {
+            "nodename": "SettlementNode3",
+            "planet": "Phobos",
+            "name": "Stickney",
+            "type": "Ausgrabung",
+            "enemy": "Grineer",
+            "level": "16 - 21"
+        },
+        {
+            "nodename": "SettlementNode2",
+            "planet": "Phobos",
+            "name": "Skyresh",
+            "type": "Täuschung",
+            "enemy": "Grineer",
+            "level": "16 - 18"
+        },
+        {
+            "nodename": "SettlementNode4",
+            "planet": "Phobos",
+            "name": "Drunlo",
+            "type": "Verteidiung",
+            "enemy": "Grineer",
+            "level": "16 - 21"
+        },
+        {
+            "nodename": "SettlementNode13",
+            "planet": "Phobos",
+            "name": "DArrest",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SettlementNode12",
+            "planet": "Phobos",
+            "name": "Monolith",
+            "type": "Rettung",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SettlementNode10",
+            "planet": "Phobos",
+            "name": "Kepler",
+            "type": "Verteidiung",
+            "enemy": "Grineer",
+            "level": "18 - 23"
+        },
+        {
+            "nodename": "SettlementNode15",
+            "planet": "Phobos",
+            "name": "Sharpless",
+            "type": "Mobile Verteidigung",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SettlementNode8",
+            "planet": "Phobos",
+            "name": "Reldresal",
+            "type": "Sabotage",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SettlementNode11",
+            "planet": "Phobos",
+            "name": "Gulliver",
+            "type": "Rettung",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SettlementNode14",
+            "planet": "Phobos",
+            "name": "Shklovsky",
+            "type": "Spy",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SettlementNode9",
+            "planet": "Phobos",
+            "name": "Clustril",
+            "type": "Auslöschung",
+            "enemy": "Grineer",
+            "level": "18 - 20"
+        },
+        {
+            "nodename": "SettlementNode16",
+            "planet": "Phobos",
+            "name": "Wendell",
+            "type": "Ausgrabung",
+            "enemy": "Grineer",
+            "level": "20 - 25"
+        },
+        {
+            "nodename": "SettlementNode19",
+            "planet": "Phobos",
+            "name": "Todd",
+            "type": "Gefangennahme",
+            "enemy": "Grineer",
+            "level": "20 - 22"
+        },
+        {
+            "nodename": "SettlementNode17",
+            "planet": "Phobos",
+            "name": "Flimnap",
+            "type": "Überleben",
+            "enemy": "Grineer",
+            "level": "20 - 25"
+        },
+        {
+            "nodename": "SettlementNode20",
+            "planet": "Phobos",
+            "name": "Iliad",
+            "type": "Attentat (Vor und Lech Kril)",
+            "enemy": "Grineer",
+            "level": "20 - 22"
+        },
+        {
+            "nodename": "SettlementNode18",
+            "planet": "Phobos",
+            "name": "Opik",
+            "type": "Abfangen",
+            "enemy": "Grineer",
+            "level": "20 - 22"
+        },
+        {
+            "nodename": "ClanNode10",
+            "planet": "Phobos",
+            "name": "Memphis",
+            "type": "Verteidiung",
+            "enemy": "Infestation",
+            "level": "22 - 32"
+        }
+    ]
+}

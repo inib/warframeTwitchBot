@@ -1,0 +1,22 @@
+{
+  "name": "voidmichl",
+  "version": "1.0.0",
+  "description": "Lebt denn der alte VoidMichl noch?",
+  "author": {
+    "name": "alpine"
+  },
+
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node --use_strict server.js"
+  },
+  
+  "dependencies": {
+    "express": ">= 4.4.4",
+    "tmi.js": ">= 0.0.29",
+    "twit": ">= 2.2.3",
+    "mongoose": "latest",
+    "limiter": "latest"
+  } 
+}
